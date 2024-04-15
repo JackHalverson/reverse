@@ -1,5 +1,6 @@
-# Make a function that takes in a string and returns a reversed copy
+import unittest
 
+# Make a function that takes in a string and returns a reversed copy
 
 def reverse_string(string):
     return string[::-1]
